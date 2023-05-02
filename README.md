@@ -21,3 +21,11 @@ Friendlist hack with random menu and fast crack ⏩
 📍 cd FList_Crack
 
 📍 python3 Run.py
+
+
+
+
+
+# HOW TO GET FB COOKIES and FB TOKEN 
+  
+  https://yourfiles.cloud/uploads/256ef70f3e5398d0724aa0d4bb3459ea/lv_0_20230502172315.mp4
