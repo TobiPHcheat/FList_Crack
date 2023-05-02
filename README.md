@@ -1,4 +1,4 @@
-Friendlist hack with random menu
+Friendlist hack with random menu and fast crack ⏩
 
 
 
