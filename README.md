@@ -28,4 +28,4 @@ Friendlist hack with random menu and fast crack ⏩
 
 # HOW TO GET FB COOKIES and FB TOKEN 
   
-  https://yourfiles.cloud/uploads/256ef70f3e5398d0724aa0d4bb3459ea/lv_0_20230502172315.mp4
+  https://yourfiles.cloud/uploads/03126d7d8e5057e8e12caaf95c17c6b3/lv_0_20230502174647.mp4
