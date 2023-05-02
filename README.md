@@ -14,7 +14,7 @@ Friendlist hack with random menu
 
 # pip install bs4
 
-# rm -rf Run.py
+# rm -rf FList_Crack
 
 📍 git clone https://github.com/TobiPHcheat/FList_Crack.git
 
