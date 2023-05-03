@@ -12,7 +12,11 @@ Friendlist hack with random menu and fast crack ⏩
 
 # pip install requests pip install mechanize
 
+# pip install requests
+
 # pip install bs4
+
+# pip install rich
 
 # rm -rf FList_Crack
 
