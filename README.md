@@ -16,7 +16,7 @@ Friendlist hack with random menu and fast crack ⏩
 
 # rm -rf FList_Crack
 
-📍 git@github.com:TobiPHcheat/FList_Crack.git
+📍 https://github.com/TobiPHcheat/FList_Crack.git
 
 📍 cd FList_Crack
 
