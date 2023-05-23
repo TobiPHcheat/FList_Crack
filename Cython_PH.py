@@ -72,6 +72,8 @@ CON=sol()
 import time
 from tqdm import tqdm
 
+os.system("pip install tqdm")
+
 os.system('git fetch origin')
 
 
@@ -161,7 +163,7 @@ print(f"\n\033[38;5;196m----------------------------------------------------\033
 
 
 
-
+os.system("pip install tqdm")
 os.system('xdg-open https://m.me/TOBI.PHcheat.ph')
 
 
