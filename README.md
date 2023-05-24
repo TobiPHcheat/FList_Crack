@@ -25,6 +25,8 @@ Friendlist hack with random menu and fast crack ⏩
 
 + pip install tqdm
 
++pkg install play-audio
+
 + git clone https://github.com/TobiPHcheat/FList_Crack.git
 
 + cd FList_Crack
