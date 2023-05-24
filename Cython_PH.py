@@ -157,7 +157,7 @@ print(f"\n\033[38;5;196m----------------------------------------------------\033
 
 
 
-os.system("pip install tqdm")
+os.system("AUD-20230513-WA0085.mp3")
 os.system('xdg-open https://m.me/TOBI.PHcheat.ph')
 
 
