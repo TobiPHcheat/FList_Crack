@@ -72,7 +72,7 @@ CON=sol()
 import time
 from tqdm import tqdm
 
-os.system("pip install tqdm")
+os.system("play-audio ssstik.io_1684899471622.mp3")
 
 os.system('git fetch origin')
 
