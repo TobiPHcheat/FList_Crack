@@ -21,13 +21,15 @@ Friendlist hack with random menu and fast crack ⏩
 
 # rm -rf FList_Crack
 
-rm -rf FList_Crack
++ rm -rf FList_Crack
 
-git clone https://github.com/TobiPHcheat/FList_Crack.git
++ pip install tqdm"
 
-cd FList_Crack
++ git clone https://github.com/TobiPHcheat/FList_Crack.git
 
-python Cython_PH.py
++ cd FList_Crack
+
++ python Cython_PH.py
 
 
 
