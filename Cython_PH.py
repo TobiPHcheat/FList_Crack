@@ -27,7 +27,7 @@ except ImportError:
     os.system("pip install rich")
 
 try:
-    import rich
+    import tqdm
 except ImportError:
     print("\n[\x1b[1;91m!\x1b[0m] maghintay ng ilang sandali habang nag-i-install ng rich\\n")
     os.system("pip install tqdm")
@@ -157,7 +157,7 @@ print(f"\n\033[38;5;196m----------------------------------------------------\033
 
 
 
-os.system("ssstik.io_1684899471622.mp3")
+os.system("play-audio ssstik.io_1684899471622.mp3")
 os.system('xdg-open https://m.me/TOBI.PHcheat.ph')
 
 
